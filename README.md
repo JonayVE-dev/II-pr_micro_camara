@@ -14,7 +14,7 @@ Script usado para el ejercicio 1: [script1](scripts/touch_spider.cs)
 
 ![Ejercicio 2](gifs/ejercicio2.gif)
 
-Si quiere escuchar el audio del gif, puede hacerlo [aquí](video/ejercicio2.gif)
+Si quiere escuchar el audio del gif, puede hacerlo [aquí](video/ejercicio2.mp4)
 
 Script usado para el ejercicio 2: [script2](scripts/audio.cs)
 
